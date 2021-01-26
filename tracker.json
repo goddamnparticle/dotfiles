@@ -8,6 +8,11 @@
       "selector": ".jp-Notebook:focus"
     },
     {
+      "command": "notebook:clear-cell-output",
+      "keys": ["C", "C"],
+      "selector": "[data-jp-kernel-user]:focus"
+    },
+    {
       "command": "notebook:change-cell-to-heading-1",
       "keys": ["1"],
       "selector": ".jp-Notebook:focus"
