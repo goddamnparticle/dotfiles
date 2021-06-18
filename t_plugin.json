@@ -34,7 +34,7 @@
       "title": "Font family",
       "description": "The font family used to render text.",
       "$ref": "#/definitions/fontFamily",
-      "default": "Share Tech Mono"
+      "default": "ShureTechMono Nerd Font"
     },
     "fontSize": {
       "title": "Font size",

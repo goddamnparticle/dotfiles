@@ -288,7 +288,7 @@
       "$ref": "#/definitions/editorConfig",
       "default": {
         "autoClosingBrackets": true,
-        "fontFamily": "Share Tech Mono",
+        "fontFamily": "ShureTechMono Nerd Font",
         "fontSize": 17,
         "lineHeight": null,
         "lineNumbers": true,
