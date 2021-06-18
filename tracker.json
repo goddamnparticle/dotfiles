@@ -288,7 +288,7 @@
       "$ref": "#/definitions/editorConfig",
       "default": {
         "autoClosingBrackets": true,
-        "fontFamily": "Share Tech Mono",
+        "fontFamily": "Cascadia Code",
         "fontSize": 17,
         "lineHeight": null,
         "lineNumbers": true,
