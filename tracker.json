@@ -289,7 +289,7 @@
       "default": {
         "autoClosingBrackets": true,
         "fontFamily": "Cascadia Code",
-        "fontSize": 17,
+        "fontSize": 14,
         "lineHeight": null,
         "lineNumbers": true,
         "lineWrap": "on",
