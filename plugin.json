@@ -59,7 +59,7 @@
     },
     {
       "command": "runmenu:restart-and-run-all",
-      "keys": ["Accel Ctrl 1"],
+      "keys": ["Alt Ctrl 1"],
       "selector": "[data-jp-code-runner]"
     },
     {
