@@ -1,0 +1,23 @@
+{
+   "shortcuts": [
+        
+       {
+            "command": "notebook:clear-cell-output",
+            "keys": [
+                "/",
+                "/"
+            ],
+            "selector": ".jp-Notebook:focus"
+        },
+        
+       {
+            "command": "notebook:restart-and-run-to-selected",
+            "keys": [
+                "=",
+                "="
+            ],
+            "selector": ".jp-Notebook:focus"
+        },
+       
+       ]
+}
